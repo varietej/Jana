@@ -7,3 +7,4 @@ Created on Thu Nov 13 18:31:42 2025
 """
 
 print("marko")
+print("jana")
